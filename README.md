@@ -34,7 +34,6 @@ researchers, policymakers, and healthcare analysts.
 The dashboard is powered by both global and India-specific datasets:
 
 • Global Sources:
-
   • World Health Organization (WHO): Global confirmed, recovered, and deceased case counts
 
   • Our World in Data (OWID): Vaccination progress and vaccine adoption
