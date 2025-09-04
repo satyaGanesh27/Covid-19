@@ -123,4 +123,4 @@ trends).
 
 7.📸 Dashboard Preview
 
-![COVID-19 Dashboard](https://github.com/satyaGanesh27/Covid-19/blob/main/Covid_19.pbit)
+![COVID-19 Dashboard](https://github.com/satyaGanesh27/Covid-19/blob/main/Covid-19.pdf)
